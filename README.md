@@ -33,7 +33,7 @@ Fire Sentinel is a theoretical smart security system that demonstrates how autom
 | Fire Emergency     | T → T → T      | Sustained high temperature                  |
 | Forced Entry       | G → M → D      | Glass break followed by entry               |
 
-## 🏗️ Architecture
+## Architecture
 
 Fire Sentinel implements a **Moore machine** where:
 - **States** represent different security conditions
