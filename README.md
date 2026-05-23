@@ -45,14 +45,14 @@ Fire Sentinel implements a **Moore machine** where:
 
 The system uses a finite state automaton with multiple states to track sensor input sequences and generate appropriate alerts. See the state diagram image in the repository for visual representation.
 
-## 🚀 Use Cases
+## Use Cases
 
 - **Residential Security**: Home intrusion detection with fire safety
 - **Commercial Buildings**: Office and warehouse monitoring
 - **Industrial Facilities**: Combined fire and security monitoring
 - **Educational Purposes**: Demonstrating automata theory in practical applications
 
-## 📊 Technical Specifications
+## Technical Specifications
 
 - **State Machine Type**: Moore Machine
 - **Input Alphabet**: {M, T, D, G} (sensor triggers)
@@ -74,14 +74,14 @@ The current version is a **theoretical design and state diagram**. Potential imp
 - **Software Simulation**: Python, Java, or C++ state machine implementation
 - **Hardware Description**: Verilog/VHDL for FPGA deployment
 
-## 📈 Future Enhancements
+## Future Enhancements
 
-- [ ] Machine learning integration for adaptive pattern recognition
-- [ ] Mobile app for remote monitoring and alerts
-- [ ] Cloud connectivity for data logging and analytics
-- [ ] Additional sensor types (smoke, CO2, camera integration)
-- [ ] Customizable alert thresholds and pattern definitions
-- [ ] Historical data analysis and threat prediction
+-  Machine learning integration for adaptive pattern recognition
+-  Mobile app for remote monitoring and alerts
+-  Cloud connectivity for data logging and analytics
+-  Additional sensor types (smoke, CO2, camera integration)
+-  Customizable alert thresholds and pattern definitions
+-  Historical data analysis and threat prediction
 
 ## Documentation
 
