@@ -1,5 +1,3 @@
-# Fire-Sentinel
-Smart security system using Moore machine FSM with multi-sensor pattern detection for fire and intrusion alerts. Automata theory in practice.
 # Fire Sentinel - Smart Security System
 
 An intelligent security monitoring system built on Moore machine finite state automaton principles, featuring advanced pattern detection capabilities for comprehensive threat analysis.
